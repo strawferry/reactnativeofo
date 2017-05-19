@@ -7,7 +7,7 @@
 ## 效果图
 |iOS|安卓|
 |:--:|:--:|
-|![](./ios.gif)|![](./az.gif)|
+|![](https://ws1.sinaimg.cn/large/8bbf0afbly1ffr4h8o0ejg209w0hh7wk.gif)|![](https://ws1.sinaimg.cn/large/8bbf0afbly1ffr4h8chjig20820eye81.gif)|
 
 
 ## `package.json`
@@ -29,7 +29,7 @@
 
 ## 项目怎么跑起来
 
-1. 把本仓库下载或者克隆下来;
+1. 把本仓库下载或者克隆下来; [Github 地址: ](https://github.com/strawferry/reactnativeofo) `https://github.com/strawferry/reactnativeofo`
 2. 前往仓库目录,终端执行 `npm install` 或者 `yarn`;
 3. 终端执行 `react-native link`,链接相关的依赖;
 4. 然后运行项目;
